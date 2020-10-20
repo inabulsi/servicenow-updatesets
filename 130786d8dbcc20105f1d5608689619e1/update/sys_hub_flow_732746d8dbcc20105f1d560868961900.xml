@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>aff</internal_name>
+        <label_cache>[]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>aff</name>
+        <natlang/>
+        <outputs/>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <run_with_roles/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-20 07:49:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>732746d8dbcc20105f1d560868961900</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>aff</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Arabization" source="x_416555_arabizati">130786d8dbcc20105f1d5608689619e1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Arabization">130786d8dbcc20105f1d5608689619e1</sys_scope>
+        <sys_update_name>sys_hub_flow_732746d8dbcc20105f1d560868961900</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-20 07:49:52</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=732746d8dbcc20105f1d560868961900"/>
+    <sys_variable_value action="delete_multiple" query="document_key=732746d8dbcc20105f1d560868961900"/>
+    <sys_flow_cat_variable_model action="delete_multiple" query="id=732746d8dbcc20105f1d560868961900^sys_idNOT IN7727c61cdbcc20105f1d56086896195f"/>
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>732746d8dbcc20105f1d560868961900</id>
+        <name>aff</name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-20 07:49:52</sys_created_on>
+        <sys_id>7727c61cdbcc20105f1d56086896195f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-20 07:49:52</sys_updated_on>
+    </sys_flow_cat_variable_model>
+</record_update>
